@@ -1,0 +1,43 @@
+body {
+    background-color: #FFD2A0;
+    color: black;
+    border: black dashed;
+    padding: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cities1 {
+    width: 30vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#weatherform {
+
+    padding: 2%;
+    background-color: #EFB6C8;
+    border: #8174A0 solid;
+}
+
+#results {
+    margin: 5%;
+    padding: 3%; 
+    border: #8174A0 solid;
+}
+
+#nameTitle {
+    color: #4a1d5c;
+}
+
+#toppic {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-top: -5%;
+}
+
+.toppic img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
